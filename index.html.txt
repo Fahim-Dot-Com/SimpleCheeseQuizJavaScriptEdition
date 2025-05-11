@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simple Cheese Quiz 🧀</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🧀 Simple Cheese Quiz</h1>
+  <div id="quiz-container">
+    <div id="question"></div>
+    <div id="choices"></div>
+    <button id="nextBtn">Next</button>
+  </div>
+  <div id="result" style="display: none;"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
