@@ -14,8 +14,13 @@ A fun and interactive browser-based quiz game about cheese! Built using HTML, CS
 ---
 
 ## 🖼️ Preview
+Mimo IDE
+question 1 example
+![Screenshot_20250617_142050_Mimo](https://github.com/user-attachments/assets/abed51ea-5fff-4458-b977-f05655cdb78a)
 
- will add screenshots soon 
+score at the end!
+![Screenshot_20250617_142028_Mimo](https://github.com/user-attachments/assets/4d2e50ea-6b56-427c-bba7-4c0a9ea48f9d)
+
 ---
 
 ## 📁 Project Structure
